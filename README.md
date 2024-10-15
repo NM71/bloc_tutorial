@@ -5,9 +5,9 @@ BLOC Tutorial
 ## Concepts Used
 
 - CUBIT: Simplified version of BLOC for easy state management.
-- BLoCProvider
-- BLoCBuilder
-- BLoCListener: Listens for State Changes
+- BLoCProvider: Provides CUBIT to VIEW (UI)
+- BLoCBuilder: UI
+- BLoCListener: Reacts to State Changes
 
 
 ## Screenshot
